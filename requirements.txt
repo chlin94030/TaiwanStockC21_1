@@ -1,0 +1,9 @@
+# Alpha Radar V21.1 - Python 3.14 Streamlit Cloud deployment compatibility.
+# All pinned versions have prebuilt CPython 3.14 Linux wheels where needed.
+# Python 3.13 is also supported by these same pins.
+numpy==2.3.5
+pandas==2.3.3
+requests==2.32.5
+streamlit==1.52.2
+pyarrow==22.0.0
+yfinance==0.2.66

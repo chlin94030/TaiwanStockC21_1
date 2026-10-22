@@ -1,0 +1,11 @@
+{
+  "version": "21.1-debug-universe-lab",
+  "python": "3.13.5",
+  "os": "Linux",
+  "pytest_tests_passed": 53,
+  "streamlit_cloud_live_test": false,
+  "external_api_live_test": false,
+  "streamlit_installed_here": false,
+  "yfinance_installed_here": false,
+  "package_integrity": "Pending"
+}

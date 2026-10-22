@@ -1,0 +1,28 @@
+﻿V21 因子代號對照
+
+liquidity20 = 近20日實際成交金額
+high252 = 接近252日高點程度
+momentum20 = 20日報酬動能
+momentum60 = 60日報酬動能
+momentum120_skip20 = 120日中期動能（略過最近20日）
+trend_eff60 = 60日趨勢行進效率（含方向）
+downside60 = 60日下檔波動防護
+reversal5 = 5日短線反轉
+volume_impulse = 近期成交量增強
+money_flow20 = 收盤位置與成交量的綜合訊號
+breakout20 = 突破前20日高點強度
+pullback20 = 趨勢中拉回位置
+rsi_recovery = RSI修復
+macd_acceleration = MACD柱體改善
+revenue_yoy = 營收年增率（需PIT輸入）
+eps_growth = EPS成長（需PIT輸入）
+foreign_flow20 = 外資20日資金流（需PIT輸入）
+trust_flow20 = 投信20日資金流（需PIT輸入）
+
+ADV100/200/300/500 = 年度滾動平均成交金額排名母池
+MCAP100/200/300/500 = 市值排名母池（另需時點資料）
+
+HISTORICAL_SUPPORT_ONLY = 只有限的歷史支持，不代表可以自動交易
+NOT_SUPPORTED = 未通過固定條件
+INSUFFICIENT_EVIDENCE = 資料或有效樣本不足
+SYNTHETIC_ENGINE_TEST_NOT_PERFORMANCE = 合成資料工程測試，不是獲利證據

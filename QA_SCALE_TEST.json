@@ -1,0 +1,14 @@
+{
+  "version": "21.1",
+  "type": "SYNTHETIC_NOT_MARKET_RESULTS",
+  "status": "COMPLETE",
+  "elapsed_seconds_resume": 33.96,
+  "rss_mb": 291.43,
+  "verdicts": {
+    "5": "SYNTHETIC_ENGINE_TEST_NOT_PERFORMANCE",
+    "20": "SYNTHETIC_ENGINE_TEST_NOT_PERFORMANCE",
+    "60": "SYNTHETIC_ENGINE_TEST_NOT_PERFORMANCE"
+  },
+  "first_load_synthetic_attempt_timed_out_at_seconds": 180,
+  "note": "first input+features >180s; cached resume 33.96s. Not a market return or full initial download time."
+}
